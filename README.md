@@ -1,6 +1,7 @@
 Hi, I'm Ayman 👋
 
-Computer Science student Using: , Python, SQL, C#, Swift, Xamarin and much more 2+ years of programming experience Tech enthusiast
+Computer Science student
+Using: , Python, SQL, C#, Swift, Xamarin and much more 2+ years of programming experience Tech enthusiast
 
 More about me I have been programming since the 11th grade, starting my journey with SQL and Python. Years later, I am now writing programs both as a student, and as a hobby.
 
