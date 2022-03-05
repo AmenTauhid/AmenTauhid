@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Python, App development (Swift, Xamarin, Kotlin), UX Designing, Literally any FPS games**
 
-- 📫 How to reach me **aymantauhid@gmail.com**
+- 📫 How to reach me **aymantauhid2@gmail.com**
 
 - ⚡ Fun fact **I choose coding over sleep but end up sleeping on my table after an hour of coding at 3am.**
 
