@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **aymantauhid2@gmail.com**
 
-- ⚡ Fun fact **I choose coding over sleep but end up sleeping on my table after an hour of coding at 3am.**
-
 <p align="center"><description></p>
 
 
