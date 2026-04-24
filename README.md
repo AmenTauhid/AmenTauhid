@@ -4,7 +4,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aymantauhid.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://aymantauhid.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AymanTauhid-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/AymanTauhid)
-[![GitHub](https://img.shields.io/badge/GitHub-AmenTauhid-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AmenTauhid)
 
 ---
 
