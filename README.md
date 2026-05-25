@@ -44,9 +44,4 @@
 
 ### Stats
 
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AmenTauhid&show_icons=true&hide_border=true&theme=default&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmenTauhid&layout=compact&hide_border=true&theme=default" />
-</p>
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmenTauhid&hide_border=true)
